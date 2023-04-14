@@ -24,7 +24,7 @@ const Navbar: React.FC<NavbarInterface> = () => {
       <AppBar position="fixed">
         <Toolbar>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Gentleman Programming React TEST
+            Velfin Programming React TEST
           </Typography>
           <IconButton color="secondary" aria-label="favorites" component="label" onClick={handleClick}>
             <FavoriteIcon />
